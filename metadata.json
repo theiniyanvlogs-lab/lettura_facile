@@ -1,0 +1,5 @@
+{
+  "name": "\"Lettura facile\" / \"Reading is Easy\"",
+  "description": "An AI-powered reading assistant that generates MCQs and answers questions from PDFs or pasted text.",
+  "requestFramePermissions": []
+}
